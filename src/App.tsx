@@ -2,7 +2,7 @@ function App() {
 
   return (
     <>
-        <h1>Clientes App</h1>
+        <h1 className="text-blue-500">Clientes App</h1>
     </>
   )
 }
